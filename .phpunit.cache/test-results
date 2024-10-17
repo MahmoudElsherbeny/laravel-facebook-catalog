@@ -1,0 +1,1 @@
+{"version":"pest_2.36.0","defects":[],"times":{"P\\Tests\\FeedTest::__pest_evaluable_it_generate_correctly_even_with_optional_attributes":0.094,"P\\Tests\\FeedTest::__pest_evaluable_it_throws_an_exception_when_there_is_a_missing_required_attributes":0.002,"P\\Tests\\ArchTest::__pest_evaluable_it_will_not_use_debugging_functions":0.343}}
