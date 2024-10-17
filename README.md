@@ -1,6 +1,6 @@
 # Laravel Facebook Catalog Package that exports formatted XML data feed
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/MahmoudElsherbeny/laravel-facebook-catalog.svg?style=flat-square)](https://packagist.org/packages/MahmoudElsherbeny/laravel-facebook-catalog)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/MahmoudElsherbeny/laravel-facebook-catalog.svg?style=flat-square)](https://packagist.org/packages/mahmoud-elsherbeny/laravel-facebook-catalog)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/MahmoudElsherbeny/laravel-facebook-catalog/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/MahmoudElsherbeny/laravel-facebook-catalog/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/MahmoudElsherbeny/laravel-facebook-catalog/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/MahmoudElsherbeny/laravel-facebook-catalog/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/MahmoudElsherbeny/laravel-facebook-catalog.svg?style=flat-square)](https://packagist.org/packages/MahmoudElsherbeny/laravel-facebook-catalog)
@@ -43,15 +43,15 @@ An example of the expected array
 
 ```php
 [
-    "id" 	            		    => "", // Unique Example SKU
-    "title" 	            		    => "", // Max 150 Characters
-    "description"            	    => "",
-    "availability"           	    => "in stock", // values: in stock, available for order, out of stock
-    "condition" 	            	    => "new", // values: new, refurbished, used
-    "price" 		            	    => 0.00,
-    "link"		                    => "",
-    "image_link"		                => "",
-    "brand" 		            	    => "",
+    "id" 	            		     => "", // Unique Example SKU
+    "title" 	            		 => "", // Max 150 Characters
+    "description"            	     => "",
+    "availability"           	     => "in stock", // values: in stock, available for order, out of stock
+    "condition" 	            	 => "new", // values: new, refurbished, used
+    "price" 		            	 => 0.00,
+    "link"		                     => "",
+    "image_link"		             => "",
+    "brand" 		            	 => "",
     // required fileds for payments in USA only and optional everywhere else
     "quantity_to_sell_on_facebook"   => 10, // previously name "inventory"
     "google_product_category"        => "",
@@ -72,8 +72,8 @@ An example of the expected array
     "gender"                         => null,
     "color"                          => null,
     "age_group"                      => null, // Values: adult, all ages, teen, kids, todler, infant, newborn.
-    "material" 	                    => null,
-    "patern"	                        => null,
+    "material" 	                     => null,
+    "patern"	                     => null,
     "shipping"                       => null,
     "shipping_weight"                => null,
 ]
