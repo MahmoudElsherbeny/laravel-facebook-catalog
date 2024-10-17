@@ -1,6 +1,6 @@
 <?php
 
-namespace Donmbelembe\LaravelFacebookCatalog;
+namespace MahmoudElsherbeny\LaravelFacebookCatalog;
 
 use Spatie\ArrayToXml\ArrayToXml;
 

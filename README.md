@@ -1,9 +1,9 @@
 # Laravel Facebook Catalog Package that exports formatted XML data feed
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/donmbelembe/laravel-facebook-catalog.svg?style=flat-square)](https://packagist.org/packages/donmbelembe/laravel-facebook-catalog)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/donmbelembe/laravel-facebook-catalog/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/donmbelembe/laravel-facebook-catalog/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/donmbelembe/laravel-facebook-catalog/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/donmbelembe/laravel-facebook-catalog/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/donmbelembe/laravel-facebook-catalog.svg?style=flat-square)](https://packagist.org/packages/donmbelembe/laravel-facebook-catalog)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/MahmoudElsherbeny/laravel-facebook-catalog.svg?style=flat-square)](https://packagist.org/packages/MahmoudElsherbeny/laravel-facebook-catalog)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/MahmoudElsherbeny/laravel-facebook-catalog/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/MahmoudElsherbeny/laravel-facebook-catalog/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/MahmoudElsherbeny/laravel-facebook-catalog/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/MahmoudElsherbeny/laravel-facebook-catalog/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/MahmoudElsherbeny/laravel-facebook-catalog.svg?style=flat-square)](https://packagist.org/packages/MahmoudElsherbeny/laravel-facebook-catalog)
 
 Laravel Facebook Catalog Package that exports formatted XML data feed.
 
@@ -12,13 +12,13 @@ Laravel Facebook Catalog Package that exports formatted XML data feed.
 You can install the package via composer:
 
 ```bash
-composer require donmbelembe/laravel-facebook-catalog
+composer require mahmoud-elsherbeny/laravel-facebook-catalog
 ```
 
 ## Usage
 
 ```php
-use Donmbelembe\LaravelFacebookCatalog\LaravelFacebookCatalog;
+use MahmoudElsherbeny\LaravelFacebookCatalog\LaravelFacebookCatalog;
 
 LaravelFacebookCatalog::setTitle('Example feed');
 LaravelFacebookCatalog::setDescription('Example feed of the Example shop');
@@ -101,6 +101,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 ## Credits
 
 - [don mbelembe](https://github.com/donmbelembe)
+- [Mahmoud Elsherbeny](https://github.com/MahmoudElsherbeny)
 - [All Contributors](../../contributors)
 
 ## License

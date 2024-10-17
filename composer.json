@@ -1,17 +1,22 @@
 {
-    "name": "donmbelembe/laravel-facebook-catalog",
+    "name": "mahmoud-elsherbeny/laravel-facebook-catalog",
     "type": "library",
     "description": "Laravel Facebook Catalog Package that exports formatted XML data feed",
     "keywords": [
         "laravel",
         "facebook-catalog"
     ],
-    "homepage": "https://github.com/donmbelembe/laravel-facebook-catalog",
+    "homepage": "https://github.com/mahmoud-elsherbeny/laravel-facebook-catalog",
     "license": "MIT",
     "authors": [
         {
             "name": "don mbelembe",
             "email": "bizroy678@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "mahmoud elsherbeny",
+            "email": "m.elsherbeny97@gmail.com",
             "role": "Developer"
         }
     ],
