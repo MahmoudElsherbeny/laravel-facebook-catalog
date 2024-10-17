@@ -6,6 +6,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/MahmoudElsherbeny/laravel-facebook-catalog.svg?style=flat-square)](https://packagist.org/packages/MahmoudElsherbeny/laravel-facebook-catalog)
 
 Laravel Facebook Catalog Package that exports formatted XML data feed.
+This package forked from https://github.com/donmbelembe/laravel-facebook-catalog
 
 ## Installation
 
